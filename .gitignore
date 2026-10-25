@@ -1,0 +1,24 @@
+# Compiled output
+*.o
+*.obj
+*.exe
+*.out
+*.a
+build/
+cmake-build-*/
+
+# Editors
+*.cbp
+*.layout
+*.depend
+bin/
+obj/
+.vscode/*
+!.vscode/tasks.json
+.idea/
+*.swp
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db

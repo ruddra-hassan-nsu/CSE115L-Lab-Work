@@ -1,0 +1,45 @@
+# CSE115L: Programming Language I Lab
+
+This repository holds my lab work for **CSE115L (Programming Language I Lab), Section 6** at North South University, Fall 2026.
+
+- **Course Faculty:** Mirza Mohammad Lutfe Elahi (MLE)
+- **Department:** Electrical and Computer Engineering (ECE), North South University
+- **Course book:** Hanly & Koffman, *Problem Solving and Program Design in C*, 8th edition
+
+All programs are written in C (as required by this course).
+
+## Structure
+
+Each lab class has it's own folder, named `lab-NN`, with one `.c` file per task.
+
+| Lab | Topic | Folder |
+|-----|-------|--------|
+| 01 | Getting Started | TBA |
+| 02 | Program Anatomy, Data Types and Input/Output | TBA |
+| 03 | Arithmetic, Type Casts, Precedence and Formatting | TBA |
+| 04 | Library Functions and Top-Down Design | TBA |
+| 05 | Functions with Arguments and Results | TBA |
+| 06 | Conditions and the `if` Statement | TBA |
+
+Task file names follow the lab manual: `G` for guided tasks, `E` for easy, `M` for mediocre and `C` for challenging exercises.
+
+## Building
+
+```
+gcc -Wall -Wextra lab-01/E1_1.c -o E1_1
+./E1_1
+```
+
+Some labs use `math.h`, so add `-lm` when building them:
+
+```
+gcc -Wall -Wextra lab04/G4_1.c -o G4_1 -lm
+```
+
+## Contributing
+
+This is mostly a solo repository, but suggestions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+Released under the [MIT License](LICENSE).
