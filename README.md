@@ -1,5 +1,7 @@
 # CSE115L: Programming Language I Lab
 
+[![Build](https://github.com/ruddra-hassan-nsu/cse115l-lab-work/actions/workflows/build.yml/badge.svg)](https://github.com/ruddra-hassan-nsu/cse115l-lab-work/actions/workflows/build.yml)
+
 This repository holds my lab work for **CSE115L (Programming Language I Lab), Section 6** at North South University, Fall 2026.
 
 - **Course Faculty:** Mirza Mohammad Lutfe Elahi (MLE)

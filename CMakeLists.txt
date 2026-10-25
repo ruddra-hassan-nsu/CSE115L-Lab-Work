@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.10)
+project(cse115l_lab_work C)
+
+file(GLOB_RECURSE SOURCES RELATIVE ${CMAKE_SOURCE_DIR} "lab-*/*.c")
+
+foreach(src ${SOURCES})
+    get_filename_component(name ${src} NAME_WE)
+    add_executable(${name} ${src})
+    if(MSVC)
+        target_compile_options(${name} PRIVATE /W4)
+    else()
+        target_compile_options(${name} PRIVATE -Wall -Wextra)
+    endif()
+    if(UNIX)
+        target_link_libraries(${name} PRIVATE m)
+    endif()
+endforeach()
