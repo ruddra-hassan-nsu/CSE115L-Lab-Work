@@ -1,0 +1,2 @@
+Enter degrees Celsius: 34.00
+34.00 C = 93.20 F
