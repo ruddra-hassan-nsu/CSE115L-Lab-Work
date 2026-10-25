@@ -16,12 +16,12 @@ Each lab class has it's own folder, named `lab-NN`, with one `.c` file per task.
 
 | Lab | Topic | Folder |
 |-----|-------|--------|
-| 01 | Getting Started | TBA |
-| 02 | Program Anatomy, Data Types and Input/Output | TBA |
-| 03 | Arithmetic, Type Casts, Precedence and Formatting | TBA |
-| 04 | Library Functions and Top-Down Design | TBA |
-| 05 | Functions with Arguments and Results | TBA |
-| 06 | Conditions and the `if` Statement | TBA |
+| 01 | Getting Started | [`lab-01`](lab-01) |
+| 02 | Program Anatomy, Data Types and Input/Output | [`lab-02`](lab-02) |
+| 03 | Arithmetic, Type Casts, Precedence and Formatting | [`lab-03`](lab-03) |
+| 04 | Library Functions and Top-Down Design | [`lab-04`](lab-04) |
+| 05 | Functions with Arguments and Results | [`lab-05`](lab-05) |
+| 06 | Conditions and the `if` Statement | [`lab-06`](lab-06) |
 
 Task file names follow the lab manual: `G` for guided tasks, `E` for easy, `M` for mediocre and `C` for challenging exercises.
 
