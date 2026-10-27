@@ -22,6 +22,7 @@ Each lab class has it's own folder, named `lab-NN`, with one `.c` file per task.
 | 04 | Library Functions and Top-Down Design | [`lab-04`](lab-04) |
 | 05 | Functions with Arguments and Results | [`lab-05`](lab-05) |
 | 06 | Conditions and the `if` Statement | [`lab-06`](lab-06) |
+| 07 | Nested `if` and Multiple-Alternative Decisions | [`lab-07`](lab-07) |
 
 Task file names follow the lab manual: `G` for guided tasks, `E` for easy, `M` for mediocre and `C` for challenging exercises.
 
