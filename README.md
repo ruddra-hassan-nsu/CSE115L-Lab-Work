@@ -25,6 +25,7 @@ Each lab class has it's own folder, named `lab-NN`, with one `.c` file per task.
 | 09 | Repetition — Counting Loops, `while` and `for` | [`lab-09`](lab-09) |
 | 10 | Conditional Loops, Nested Loops and `do-while` | [`lab-10`](lab-10) |
 | 11 | Loop Design, Debugging, and Macros with Parameters | [`lab-11`](lab-11) |
+| 12 | Pointers and Output Parameters | [`lab-12`](lab-12) |
 
 Task file names follow the lab manual: `G` for guided tasks, `E` for easy, `M` for mediocre and `C` for challenging exercises.
 
